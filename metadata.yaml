@@ -1,0 +1,31 @@
+_repo: Solomon-Crow-s-Christmas-Pockets-and-Other-Tales_27779
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27779-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stuart, Ruth McEnery
+    birthdate: 1856
+    deathdate: 1917
+    gutenberg_agent_id: '3831'
+    url: http://www.gutenberg.org/2009/agents/3831
+description: ''
+gutenberg_issued: '2009-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'New Orleans (La.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Louisiana -- Social life and customs -- Fiction'
+tableOfContents: Solomon Crow's Christmas pockets -- The two Tims -- The Freys' Christmas
+  party -- Little Mother Quackalina -- Old Easter -- Saint Idyl's light -- "Blink"
+  -- Duke's Christmas -- Uncle Ephe's advice to Brer Rabbit -- May be so.
+title: Solomon Crow's Christmas Pockets and Other Tales
+url: http://www.gutenberg.org/ebooks/27779
